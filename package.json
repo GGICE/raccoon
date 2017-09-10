@@ -1,0 +1,24 @@
+{
+  "name": "raccoon-oo",
+  "version": "0.0.0",
+  "description": "A ui lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGICE/raccoon.git"
+  },
+  "keywords": [
+    "UI",
+    "Raccoon",
+    "WebComponents"
+  ],
+  "author": "GGICE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GGICE/raccoon/issues"
+  },
+  "homepage": "https://github.com/GGICE/raccoon#readme"
+}
